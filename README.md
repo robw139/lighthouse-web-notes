@@ -5,8 +5,8 @@ This repository contains all the notes taken by [Robert](https://github.com/robw
 
 ### Table of Contents
 
-* [Week 1](week1)
-  * [Day 1](day1)
+* [Week 1](/week1)
+  * [Day 1](/week1/day1)
     1. Item 1
     2. Item 2
     3. Item 3
